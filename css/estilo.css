@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+}
+
+body{
+    color:black;
+    background-color: gainsboro;
+}
+
+
+.fundo{
+    background-color: darkblue;
+}
+
+p{
+    color: darkblue;
+}
